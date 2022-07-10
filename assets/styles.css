@@ -132,6 +132,10 @@ p {
     background-image: url(./images/bg-desktop.svg);
   }
 
+  header img {
+    width: 15rem;
+  }
+
   main a {
     width: 200px;
     text-align: center;
